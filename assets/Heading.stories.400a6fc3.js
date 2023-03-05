@@ -1,0 +1,2 @@
+import{H as t}from"./index.62906985.js";import"./index.1ba73234.js";import"./iframe.db5553fb.js";import"./index.4e309be6.js";import"./jsx-runtime.93e9b876.js";const i={title:"Typography/Heading",component:t,args:{children:"Custom title"},parameters:{docs:{description:{story:"Por padr\xE3o o heading ser\xE1 um 'h2'"}}}},n={},d={args:{children:"H1 Heading",as:"h1"}},m=["Default","CustomTag"];export{d as CustomTag,n as Default,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Heading.stories.400a6fc3.js.map

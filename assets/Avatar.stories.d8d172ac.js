@@ -1,0 +1,2 @@
+import{A as t}from"./index.62906985.js";import"./index.1ba73234.js";import"./iframe.db5553fb.js";import"./index.4e309be6.js";import"./jsx-runtime.93e9b876.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/MathPSantos.png",alt:"Diego Fernandes"}},n={},p={args:{src:void 0}},c=["Default","WithFallback"];export{n as Default,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.d8d172ac.js.map
